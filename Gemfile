@@ -49,3 +49,11 @@ end
 gem 'devise'
 gem 'devise-jwt'
 gem 'jsonapi-serializer'
+
+# For API responding
+gem 'grape'
+gem 'grape_on_rails_routes'
+gem 'grape-entity'
+
+# Abilities devide
+gem 'cancancan'
